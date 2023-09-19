@@ -26,4 +26,4 @@ This Python script allows you to convert images (PNG, JPG, JPEG) to PDFs.
 ## How to Run
 
 ```bash
-python script.py
+python convertImgToPdf.py
